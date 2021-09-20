@@ -4,7 +4,7 @@ Este é um exemplo básico de como aplicar um encapsulamento com Java, retirado 
 
 ### :bookmark_tabs: Resumo sobre Encapsulamento
 
-Quando se fala em `encapsulamento` entende-se como o ato de estabelecer uma cápsula sobre alguma coisa. 
+Quando se fala em `encapsulamento` deve-se entender como o ato de estabelecer uma cápsula sobre alguma coisa. 
 > Encapsular é o ato de ocultar partes independentes da implementação, permitindo construir partes invisíveis ao mundo exterior. 
 
 A cápsula protege tanto o código do usuário, como o usuário do código. 
